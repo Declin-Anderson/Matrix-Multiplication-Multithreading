@@ -1,2 +1,2 @@
 # Matrix-Multiplication-Multithreading
-Project for Operating systems that used multithreading to multiple matrices in both c++ and java. These programs were then ran on linux and windows to compare the run times.
+Project for Operating system in which the goal was show the effectiveness of multithreading across operating systems and languages.  A program was written in both java and c++ that was then ran on both windows and linux to see how the different operating systems would handle the multithreading and which handle the problems faster and more effectively.
