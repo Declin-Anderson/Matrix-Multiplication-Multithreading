@@ -1,0 +1,3 @@
+﻿  MatrixMultiDeclinAnderson.cpp
+C:\Users\AndersonDeclin\source\repos\MatrixMultiDeclinAnderson\MatrixMultiDeclinAnderson\MatrixMultiDeclinAnderson.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MatrixMultiDeclinAnderson.vcxproj -> C:\Users\AndersonDeclin\source\repos\MatrixMultiDeclinAnderson\x64\Debug\MatrixMultiDeclinAnderson.exe
